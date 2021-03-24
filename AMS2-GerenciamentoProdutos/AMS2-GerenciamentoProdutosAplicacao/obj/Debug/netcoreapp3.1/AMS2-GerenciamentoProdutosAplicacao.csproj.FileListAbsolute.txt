@@ -1,0 +1,13 @@
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\bin\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.exe
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\bin\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.deps.json
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\bin\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.runtimeconfig.json
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\bin\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.runtimeconfig.dev.json
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\bin\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.dll
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\bin\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.pdb
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\obj\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.csprojAssemblyReference.cache
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\obj\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.AssemblyInfoInputs.cache
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\obj\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.AssemblyInfo.cs
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\obj\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.csproj.CoreCompileInputs.cache
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\obj\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.dll
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\obj\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.pdb
+C:\projetos\ams\AMS2-GerenciamentoProdutos\AMS2-GerenciamentoProdutosAplicacao\obj\Debug\netcoreapp3.1\AMS2-GerenciamentoProdutosAplicacao.genruntimeconfig.cache
